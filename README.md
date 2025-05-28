@@ -27,5 +27,5 @@ WHERE A> 15
 ~~~
 ![image](https://github.com/user-attachments/assets/91918d11-49b7-4ffa-8dac-e9b2357f2fff)
 
-![image](https://github.com/user-attachments/assets/2fc8ba09-9060-4e61-a538-9a1bb3677d34)
+
 
