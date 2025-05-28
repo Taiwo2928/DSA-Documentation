@@ -15,11 +15,13 @@ All DSA Class Portfolio Building Progress are recorded here
 -  SQL
 
 ### Data Cleaning and Presentation
-1. Power BI
+1. Power BI [Download]([For creating report](https://www.microsoft.com/en-us/download/details.aspx?id=58494))
 2. Data preparation
 
 ### Introducing a Line of Code
 
-''' SQL
+~~~  SQL
+SELECT A,B,C
+WHERE A> 15
 
-'''
+~~~
