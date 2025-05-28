@@ -25,3 +25,5 @@ SELECT A,B,C
 WHERE A> 15
 
 ~~~
+![image](https://github.com/user-attachments/assets/91918d11-49b7-4ffa-8dac-e9b2357f2fff)
+
